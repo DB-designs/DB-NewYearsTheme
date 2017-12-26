@@ -1683,7 +1683,7 @@ tr:nth-child(even) {
 
 td.label {
     /* background-color: #101536; */
-    background: rgba(0, 0, 0, 0.5);
+    /*background: rgba(0, 0, 0, 0.5);*/
 }
 
 .error_message {
