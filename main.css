@@ -405,9 +405,10 @@ button {
     border-bottom: 1px solid #1b1b1b;
     border-top: 1px solid #434343;
     border-left: 1px solid #3a3a3a;
-    color: #afafaf;
     background: #0a0c19;
-    padding: 0 2px;
+    padding: 5px;
+    border: 1px solid #3b9fe8;
+    color: #fff;
 }
 
 input:hover {
