@@ -1664,6 +1664,7 @@ table {
     border-collapse: collapse;
     border: 1px solid #3b9fe8;
     border-radius: 4px;
+    background-color: rgba(25, 26, 31, 0.9);
 }
 
 tr {
