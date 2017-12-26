@@ -2101,6 +2101,10 @@ tr.unreadpm {
     color: white;
 }
 
+.forum_list{
+    background-color: rgba(25, 26, 31, 0.9);
+}
+
 #forums span.forumicon {
     background-image: url('icons.png');
     width: 12px;
