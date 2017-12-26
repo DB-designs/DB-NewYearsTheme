@@ -1618,7 +1618,7 @@ span.powerleech {
 
 
 .pad {
-    border: 1px solid #18181e;
+    /*border: 1px solid #18181e;*/
 }
 
 .cattop {
@@ -1665,6 +1665,10 @@ tr:nth-child(odd) {
 }
 
 .border tr:nth-child(even) {
+    background-color: rgba(84, 97, 187, 0.3);
+}
+
+#messageform tr:nth-child(even) {
     background-color: rgba(84, 97, 187, 0.3);
 }
 
