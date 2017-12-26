@@ -2059,6 +2059,10 @@ tr.unreadpm {
     color: white !important;
 }
 
+#nav_donate > a > span {
+    color: #ffee0b !important;
+}
+
 /* Forums layout */
 
 #forums .forum_index h4 a,
