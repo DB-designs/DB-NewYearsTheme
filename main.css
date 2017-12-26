@@ -2247,8 +2247,7 @@ td[style="background-color: black;border:none;"] {
 
 
 /* === Adding the Fireworks to the headers === */
-
-.head.colhead_dark:before {
+.newspage > .head.colhead_dark:before {
     content: '';
     background: url('https://i.imgur.com/kkxuo8n.png');
     width: 22px;
@@ -2257,7 +2256,7 @@ td[style="background-color: black;border:none;"] {
     display: -webkit-inline-box;
 }
 
-.head.colhead_dark:after {
+.newspage >.head.colhead_dark:after {
     content: '';
     background: url('https://i.imgur.com/kkxuo8n.png');
     width: 22px;
