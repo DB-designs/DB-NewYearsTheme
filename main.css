@@ -1688,6 +1688,10 @@ tr:nth-child(odd) {
     background-color: rgba(84, 97, 187, 0.3);
 }
 
+#bonus > #wrapper > #content > .thin tr:nth-child(even) {
+    background-color: rgba(84, 97, 187, 0.3);
+}
+
 
 #torrents tr.sticky {
     background-color: #363636;
