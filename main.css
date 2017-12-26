@@ -2264,3 +2264,21 @@ td[style="background-color: black;border:none;"] {
     display: -webkit-inline-box;
 
 }
+
+.newspage >.head:after {
+    content: '';
+    background: url('https://i.imgur.com/kkxuo8n.png');
+    width: 22px;
+    height: 30px;
+    display: -webkit-inline-box;
+
+}
+
+.newspage > .head:before {
+    content: '';
+    background: url('https://i.imgur.com/kkxuo8n.png');
+    width: 22px;
+    height: 30px;
+    display: block;
+    display: -webkit-inline-box;
+}
