@@ -1,5 +1,6 @@
 /* [START: main.css]
 /* Layout (Torrents page) */
+
 /* 1 */
 
 /*============= FIREWORKS!!! ==============*/
@@ -427,7 +428,8 @@ input:disabled:hover {
 textarea {
     padding: 2px 3px;
     color: #aaa;
-    background: #202020;
+    background: #0a0c19;
+    ;
     border-radius: 4px;
 
     border-top: 1px solid #141414;
