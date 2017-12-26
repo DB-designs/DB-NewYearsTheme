@@ -238,7 +238,7 @@ body {
 a {
 	text-decoration: none;
 	border: none;
-	color: #3b9fe8;
+	color: #85dcff;
 	transition: color 0.2s ease;
 }
 
@@ -438,7 +438,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 }
 
 #menu ul li a {
-	color: #afafaf;
+	color: #ffffff;
 	text-shadow: 1px 1px 0 #000;
 }
 
@@ -1344,7 +1344,7 @@ tr {
 	border: 0;
 }
 
-tr:nth-child(odd) {background: rgba(0,0,0,0.5);}
+tr:nth-child(odd) {background: rgba(0,0,0,0.2);}
 
 #torrents tr.sticky {
 	background-color: #363636;
