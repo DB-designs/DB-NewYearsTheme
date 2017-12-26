@@ -189,7 +189,7 @@
 
 /*-------------------------------------------------------*/
 #lolgo { 
-	background-image: url('/static/logo/new_logo_blue.png');
+	background-image: url('images/db_logo_blue.png');
 	background-repeat: no-repeat; background-position: 0px 15px; width: 800px; height: 135px; margin: 0 auto; background-position: 0px 15px;
  }
 #linktorrent {
@@ -1632,7 +1632,7 @@ tr.unreadpm {
 	float: left;
 	width: 12px;
 	height: 12px;
-	background: url('https://i.imgur.com/Zwpqbo4.gif');
+	background: url('images/icons.gif');
 }
 
 #stats_seeding.user_stat_pics {
