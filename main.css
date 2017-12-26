@@ -991,15 +991,24 @@ td.colhead,
 }
 
 
-.colhead_dark > strong {
+/* Frontpage Firework Headers */
+.newspage > .colhead_dark > a {
     position: relative;
     top: -10px;
 }
 
-.colhead_dark > a {
+.newspage > .head > strong {
     position: relative;
     top: -10px;
 }
+
+.newspage > .head > .time {
+    position: relative;
+    top: -10px;
+}
+
+/* End of */
+
 
 .colhead .sign {
     padding: 0px 8px 0px 8px;
