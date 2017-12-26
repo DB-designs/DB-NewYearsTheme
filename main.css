@@ -1344,8 +1344,7 @@ tr {
 	border: 0;
 }
 
-tr:nth-child(odd) {
-}
+tr:nth-child(odd) {background: rgba(0,0,0,0.5);}
 
 #torrents tr.sticky {
 	background-color: #363636;
@@ -1366,7 +1365,8 @@ tr:nth-child(odd) {
 }
 
 td.label {
-	background-color: #2c2c2c;
+	/* background-color: #101536; */
+	background: rgba(0,0,0,0.5);
 }
 
 .error_message {
