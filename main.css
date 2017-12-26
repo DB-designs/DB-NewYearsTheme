@@ -1007,6 +1007,11 @@ td.colhead,
     top: -10px;
 }
 
+.sidebar > .box > .head.colhead_dark > strong {
+    position: relative;
+    top: -10px;
+}
+
 /* End of */
 
 
@@ -2293,5 +2298,23 @@ td[style="background-color: black;border:none;"] {
     width: 22px;
     height: 30px;
     display: block;
+    display: -webkit-inline-box;
+}
+
+
+.sidebar > .box > .head.colhead_dark:before {
+    content: '';
+    background: url('https://i.imgur.com/kkxuo8n.png');
+    width: 22px;
+    height: 30px;
+    display: block;
+    display: -webkit-inline-box;
+}
+
+.sidebar > .box > .head.colhead_dark:after {
+        content: '';
+    background: url('https://i.imgur.com/kkxuo8n.png');
+    width: 22px;
+    height: 30px;
     display: -webkit-inline-box;
 }
