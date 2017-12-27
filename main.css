@@ -2378,21 +2378,19 @@ td[style="background-color: black;border:none;"] {
     display: -webkit-inline-box;
 }
 
-
-
-#index > .box > .head.colhead_dark:before {
-    content: '';
-    background: url('images/rocketIcon.png');
-    width: 22px;
-    height: 30px;
-    display: block;
-    display: -webkit-inline-box;
-}
-
 #index .box > .head.colhead_dark:after {
     content: '';
     background: url('images/rocketIcon.png');
     width: 22px;
     height: 30px;
+    display: -webkit-inline-box;
+}
+
+#index .box > .head.colhead_dark:before {
+    content: '';
+    background: url('images/rocketIcon.png');
+    width: 22px;
+    height: 30px;
+    display: block;
     display: -webkit-inline-box;
 }
