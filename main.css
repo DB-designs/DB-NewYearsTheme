@@ -1742,6 +1742,7 @@ tr:nth-child(even) {
     background-color: rgba(84, 97, 187, 0.3);
 }
 
+/* Not sure if i'll need this later
 #rss tr:nth-child(even) {
     background-color: rgba(84, 97, 187, 0.3);
 }
@@ -1768,7 +1769,7 @@ tr:nth-child(even) {
 
 #forums > #wrapper > #content > .thin600 tr:nth-child(even) {
     background-color: rgba(84, 97, 187, 0.3);
-}
+}*/
 
 
 #torrents tr.sticky {
@@ -1903,7 +1904,7 @@ tr.unreadpm {
 }
 
 #inbox .box {
-    background: #1c213e !important;
+    background: #1a1e3b !important;
 }
 
 #inbox searchbars > input {
@@ -2379,7 +2380,7 @@ td[style="background-color: black;border:none;"] {
 
 
 
-#index > #wrapper > #content > .thin >.sidebar > .box > .head.colhead_dark:before {
+#index > .box > .head.colhead_dark:before {
     content: '';
     background: url('images/rocketIcon.png');
     width: 22px;
@@ -2388,7 +2389,7 @@ td[style="background-color: black;border:none;"] {
     display: -webkit-inline-box;
 }
 
-#index > #wrapper > #content > .thin >.sidebar > .box > .head.colhead_dark:after {
+#index .box > .head.colhead_dark:after {
     content: '';
     background: url('images/rocketIcon.png');
     width: 22px;
