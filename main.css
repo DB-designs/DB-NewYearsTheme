@@ -2046,6 +2046,14 @@ tr.unreadpm {
     z-index: 2;
 }
 
+#user .head > span {
+	float: none !important;
+}
+
+#user .head {
+	text-align: center;
+}
+
 #userinfo_stats li {
     position: relative;
     display: block;
