@@ -2379,3 +2379,11 @@ td[style="background-color: black;border:none;"] {
     height: 30px;
     display: -webkit-inline-box;
 }
+
+#inbox .box {
+    background: #1c213e !important;
+}
+
+#inbox searchbars > input {
+    width: 100% !important;
+}
