@@ -2268,7 +2268,7 @@ td[style="background-color: black;border:none;"] {
 
 .newspage > .head.colhead_dark:before {
     content: '';
-    background: url('https://i.imgur.com/kkxuo8n.png');
+    background: url('images/rocketIcon.png');
     width: 22px;
     height: 30px;
     display: block;
@@ -2277,7 +2277,7 @@ td[style="background-color: black;border:none;"] {
 
 .newspage > .head.colhead_dark:after {
     content: '';
-    background: url('https://i.imgur.com/kkxuo8n.png');
+    background: url('images/rocketIcon.png');
     width: 22px;
     height: 30px;
     display: -webkit-inline-box;
@@ -2286,7 +2286,7 @@ td[style="background-color: black;border:none;"] {
 
 .newspage > .head:after {
     content: '';
-    background: url('https://i.imgur.com/kkxuo8n.png');
+    background: url('images/rocketIcon.png');
     width: 22px;
     height: 30px;
     display: -webkit-inline-box;
@@ -2295,7 +2295,7 @@ td[style="background-color: black;border:none;"] {
 
 .newspage > .head:before {
     content: '';
-    background: url('https://i.imgur.com/kkxuo8n.png');
+    background: url('images/rocketIcon.png');
     width: 22px;
     height: 30px;
     display: block;
@@ -2303,18 +2303,19 @@ td[style="background-color: black;border:none;"] {
 }
 
 
-.sidebar > .box > .head.colhead_dark:before {
+
+#index > #wrapper > #content > .thin >.sidebar > .box > .head.colhead_dark:before {
     content: '';
-    background: url('https://i.imgur.com/kkxuo8n.png');
+    background: url('images/rocketIcon.png');
     width: 22px;
     height: 30px;
     display: block;
     display: -webkit-inline-box;
 }
 
-.sidebar > .box > .head.colhead_dark:after {
+#index > #wrapper > #content > .thin >.sidebar > .box > .head.colhead_dark:after {
     content: '';
-    background: url('https://i.imgur.com/kkxuo8n.png');
+    background: url('images/rocketIcon.png');
     width: 22px;
     height: 30px;
     display: -webkit-inline-box;
