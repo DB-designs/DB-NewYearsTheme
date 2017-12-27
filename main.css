@@ -1710,7 +1710,6 @@ tr:nth-child(even) {
 }
 
 #forums table.forum_post tr:nth-child(even) {
-<<<<<<< HEAD
     background-color: rgba(25, 26, 31, 0.8) !important;
 }
 
@@ -2303,7 +2302,7 @@ td[style="background-color: black;border:none;"] {
 }
 
 
-/* === Adding the Fireworks to the headers === */
+/* === Adding the Fireworks to the BG === */
 
 .newspage > .head.colhead_dark:before {
     content: '';
