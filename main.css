@@ -1,7 +1,7 @@
 /* [START: main.css]
 /* Layout (Torrents page) */
 
-/* 1 */
+/* 7 */
 
 /*============= FIREWORKS!!! ==============*/
 
@@ -1030,7 +1030,7 @@ td.colhead,
     white-space: nowrap;
     width: auto;
     text-align: center;
-    background: #262626;
+    background: #101536;
 }
 
 .colheadmenu a:hover {
@@ -1043,12 +1043,12 @@ td.colhead,
 
 .colheadmenuactive {
     font-size: 11pt;
-    background: #2C2C2C;
-    border: 1px solid #151515;
+    /* background: #2C2C2C; */
+    /* border: 1px solid #151515; */
 }
 
 .colheadmenuactive a {
-    color: #0087DC;
+    color: #ffffff;
 }
 
 .colheadmenuactive a:hover {
@@ -1095,25 +1095,25 @@ td.colhead,
 .colheadmenuopret {
     text-align: center;
     padding-right: 30px;
+    background: linear-gradient(to right, #101536 , #7dcff1);
     padding-left: 30px;
-    background: #007AA9;
-    background: -moz-linear-gradient(top, #057BAA 0%, #006897 50%, #006392 51%, #005584 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #057baa), color-stop(50%, #006897), color-stop(51%, #006392), color-stop(100%, #005584));
+    
+    
     /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top, #057baa 0%, #006897 50%, #006392 51%, #005584 100%);
+    
     /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top, #057baa 0%, #006897 50%, #006392 51%, #005584 100%);
+    
     /* Opera 11.10+ */
-    background: -ms-linear-gradient(top, #057baa 0%, #006897 50%, #006392 51%, #005584 100%);
+    
     /* IE10+ */
-    background: linear-gradient(to bottom, #057baa 0%, #006897 50%, #006392 51%, #005584 100%);
+    
     /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#057baa', endColorstr='#005584', GradientType=0);
+    
     /* IE6-9 */
 }
 
 .colheadmenuopret a {
-    color: #202020;
+    color: #ffffff;
 }
 
 .colheadmenuopret a:hover {
