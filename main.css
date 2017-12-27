@@ -1710,7 +1710,7 @@ tr:nth-child(even) {
 }
 
 #forums table.forum_post tr:nth-child(even) {
-        background-color: rgba(25, 26, 31, 0.9) !important;
+        background-color: rgba(25, 26, 31, 0.7) !important;
 }
 
 #torrents tr.sticky:nth-child(odd) {
