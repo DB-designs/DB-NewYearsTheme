@@ -1717,6 +1717,19 @@ tr:nth-child(even) {
     background-color: #3a3a3a;
 }
 
+
+.torrent_table_details tr:nth-child(odd) {
+    background-color: rgba(25, 26, 31, 0.8) !important;
+}
+
+.torrent_table_details tr:nth-child(even) {
+    background-color: rgba(25, 26, 31, 0.8) !important;
+}
+
+#torrents table.forum_post tr:nth-child(even) {
+        background-color: rgba(25, 26, 31, 0.9) !important;
+}
+
 .box.newspage tr:nth-child(even) {
     background-color: rgba(84, 97, 187, 0.3);
 }
