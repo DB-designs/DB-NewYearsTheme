@@ -1675,6 +1675,10 @@ tr:nth-child(odd) {
     background-color: rgba(30, 42, 123, 0.3);
 }
 
+tr:nth-child(even) {
+    background-color: rgba(84, 97, 187, 0.3);
+}
+
 #torrents tr.sticky:nth-child(odd) {
     background-color: #3a3a3a;
 }
