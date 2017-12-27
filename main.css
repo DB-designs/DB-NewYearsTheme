@@ -1902,6 +1902,22 @@ tr.unreadpm {
     background-color: #383838;
 }
 
+#inbox .box {
+    background: #1c213e !important;
+}
+
+#inbox searchbars > input {
+    width: 100% !important;
+}
+
+#inbox .vertical_space {
+    background-color: rgba(25, 26, 31, 0.9) !important;
+}
+
+#inbox table {
+	border: none;
+}
+
 /* Layout (MISC) */
 
 /*.left_poll {
@@ -2378,12 +2394,4 @@ td[style="background-color: black;border:none;"] {
     width: 22px;
     height: 30px;
     display: -webkit-inline-box;
-}
-
-#inbox .box {
-    background: #1c213e !important;
-}
-
-#inbox searchbars > input {
-    width: 100% !important;
 }
