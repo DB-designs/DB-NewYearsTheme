@@ -565,7 +565,7 @@ ul.thin li {
 
 #menu {
     display: block;
-    background-color: rgba(30, 42, 123, 0.3);
+    background-color: #2a2e4e;;
     position: absolute;
     overflow: hidden;
     text-align: center;
@@ -1657,7 +1657,6 @@ span.powerleech {
 
 
 .pad {
-    /*border: 1px solid #18181e;*/
 }
 
 .cattop {
@@ -1698,15 +1697,11 @@ tr {
 }
 
 tr:nth-child(odd) {
-    background-color: rgba(30, 42, 123, 0.3) !important;
+    background-color: #2a2e4e; !important;
 }
 
 tr:nth-child(even) {
         background-color: rgba(84, 97, 187, 0.3) !important;
-}
-
-.box.newspage tr:nth-child(even) {
-    background-color: rgba(84, 97, 187, 0.3);
 }
 
 .border tr:nth-child(even) {
@@ -1717,36 +1712,6 @@ tr:nth-child(even) {
     background-color: rgba(84, 97, 187, 0.3);
 }
 
-/* Not sure if i'll need this later
-#rss tr:nth-child(even) {
-    background-color: rgba(84, 97, 187, 0.3);
-}
-
-#rss > #wrapper > #content > .thin tr:nth-child(even) {
-    background-color: rgba(84, 97, 187, 0.3);
-}
-
-#rss > #wrapper > #content > .thin600 tr:nth-child(even) {
-    background-color: rgba(84, 97, 187, 0.3);
-}
-
-#bonus > #wrapper > #content > .thin600 tr:nth-child(even) {
-    background-color: rgba(84, 97, 187, 0.3);
-}
-
-#bonus > #wrapper > #content > .thin tr:nth-child(even) {
-    background-color: rgba(84, 97, 187, 0.3);
-}
-
-#forums > #wrapper > #content > .thin tr:nth-child(even) {
-    background-color: rgba(84, 97, 187, 0.3);
-}
-
-#forums > #wrapper > #content > .thin600 tr:nth-child(even) {
-    background-color: rgba(84, 97, 187, 0.3);
-}*/
-
-
 #torrents tr.sticky {
     background-color: #363636;
 }
@@ -1755,7 +1720,7 @@ tr:nth-child(even) {
 .colhead_dark,
 .head {
     color: white;
-    background-color: rgba(30, 42, 123, 0.3);
+    background-color: #2a2e4e;;
     text-align: center;
     px;
     */ height: 20;
@@ -1927,7 +1892,7 @@ tr.unreadpm {
 #userinfo ul {
     display: block;
     list-style: none;
-    /* background-color: rgba(30, 42, 123, 0.3); */
+    /* background-color: #2a2e4e;; */
     margin: 0;
     padding: 0;
     /* Make sure text is readable when it overlaps the header on small resolutions */
