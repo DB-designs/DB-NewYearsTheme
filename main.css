@@ -2395,3 +2395,7 @@ td[style="background-color: black;border:none;"] {
     display: block;
     display: -webkit-inline-box;
 }
+
+#donate .box {
+	background-color: rgb(26, 30, 59) !important;
+}
