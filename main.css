@@ -1734,6 +1734,7 @@ tr:nth-child(even) {
     background-color: rgba(84, 97, 187, 0.3);
 }
 
+
 .border tr:nth-child(even) {
     background-color: rgba(84, 97, 187, 0.3);
 }
