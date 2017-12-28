@@ -2285,14 +2285,15 @@ td[style="background-color: black;border:none;"] {
 
 #modbarmain {
     width: 100%;
-    background: #222;
-    border-bottom: 1px solid #2f2f2f;
+    background-color: rgba(30, 42, 123, 0.3);
     line-height: 24px;
+    border-bottom: 1px solid #3b9fe8;
     margin-bottom: 20px;
 }
 
 .modbar {
     width: 100%;
+    text-align: center;
     border-bottom: 1px solid #151515;
 }
 
