@@ -1730,6 +1730,7 @@ tr:nth-child(even) {
     background-color: rgba(84, 97, 187, 0.3);
 }
 
+
 #bonus > #wrapper > #content > .thin600 tr:nth-child(even) {
     background-color: rgba(84, 97, 187, 0.3);
 }
