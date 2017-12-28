@@ -1722,8 +1722,7 @@ tr:nth-child(even) {
     color: white;
     background-color: #2a2e4e;;
     text-align: center;
-    px;
-    */ height: 20;
+    height: 20;
     height: 30px;
     line-height: 30px;
 }
