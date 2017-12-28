@@ -428,15 +428,13 @@ input:disabled:hover {
 
 textarea {
     padding: 2px 3px;
-    color: #aaa;
-    background: #0a0c19;
-    ;
+    color: #fff;
+    background: #1a1e3b;
     border-radius: 4px;
-
-    border-top: 1px solid #141414;
-    border-left: 1px solid #141414;
-    border-right: 1px solid #212121;
-    border-bottom: 1px solid #212121;
+    border-top: 1px solid rgba(59,159,232,0.5);
+    border-left: 1px solid rgba(59,159,232,0.5);
+    border-right: 1px solid rgba(59,159,232,0.5);
+    border-bottom: 1px solid rgba(59,159,232,0.5);
     margin-bottom: 5px;
 }
 
@@ -444,12 +442,13 @@ input[type=text],
 input[type=password],
 input[type=file] {
     padding: 2px 3px;
-    color: #aaa;
+    color: #fff;
     border-radius: 4px;
-    border-top: 1px solid #141414;
-    border-left: 1px solid #141414;
-    border-right: 1px solid #212121;
-    border-bottom: 1px solid #212121;
+    background: #1a1e3b;        
+    border-top: 1px solid rgba(59,159,232,0.5);
+    border-left: 1px solid rgba(59,159,232,0.5);
+    border-right: 1px solid rgba(59,159,232,0.5);
+    border-bottom: 1px solid rgba(59,159,232,0.5);
 }
 
 input[type=file],
@@ -655,7 +654,8 @@ ul.thin li {
     position: relative;
     padding: 2px 2px 2px 4px;
     font-size: 0.9em;
-    background: #0a0c19;
+    background: #1a1e3b;
+    text-align: center;
 }
 
 #searchbars ul {
