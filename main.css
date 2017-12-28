@@ -1705,6 +1705,31 @@ tr:nth-child(even) {
         background-color: rgba(84, 97, 187, 0.3) !important;
 }
 
+#forums tr:nth-child(even) {
+        background-color: rgba(25, 26, 31, 0.9);
+}
+
+#forums table.forum_post tr:nth-child(even) {
+    background-color: rgba(25, 26, 31, 0.8) !important;
+}
+
+#torrents tr.sticky:nth-child(odd) {
+    background-color: #3a3a3a;
+}
+
+
+.torrent_table_details tr:nth-child(odd) {
+    background-color: rgba(25, 26, 31, 0.8) !important;
+}
+
+.torrent_table_details tr:nth-child(even) {
+    background-color: rgba(25, 26, 31, 0.8) !important;
+}
+
+#torrents table.forum_post tr:nth-child(even) {
+        background-color: rgba(25, 26, 31, 0.9) !important;
+}
+
 .box.newspage tr:nth-child(even) {
     background-color: rgba(84, 97, 187, 0.3);
 }
@@ -1884,6 +1909,10 @@ tr.unreadpm {
 
 #inbox searchbars > input {
     width: 100% !important;
+}
+
+#inbox .vertical_space {
+    background-color: rgba(25, 26, 31, 0.9) !important;
 }
 
 #inbox table {
